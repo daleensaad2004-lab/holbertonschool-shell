@@ -1,1 +1,2 @@
-Holberton School Shell Basics
+# Holberton School Shell Project
+Initialization files, variables, and expansions tasks.
