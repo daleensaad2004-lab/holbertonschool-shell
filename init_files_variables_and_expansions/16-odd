@@ -1,2 +1,2 @@
 #!/bin/bash
-i=1; while read l; do [ $((i%2)) -ne 0 ] && echo "$l"; i=$((i+1)); done
+sed -n '1~2p'
