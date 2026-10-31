@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(( 2#$(echo $WATER | tr 'ewwatratewa' '01') + 2#$(echo $STIR | tr 'ti.itirtrtr' '01') ))
+echo $((WATER + STIR))
